@@ -18,5 +18,4 @@ Customer review data for Britis Airways was collected from [Skytrax](https://www
 
 Following insights were uncovered as they are summed up in the one slide presentation.
 
-![PowerPoint Presentation](https://github.com/riju1999/British_Airways_Reviews/blob/main/Presentation.pptx)
-
+[Download PowerPoint Presentation](https://github.com/riju1999/British_Airways_Reviews/raw/main/Presentation.pptx)
